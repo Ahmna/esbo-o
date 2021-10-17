@@ -148,7 +148,7 @@ blockquote {
 	z-index: 2;
 }
 .subfooter {
-	background-color: #DA095F;
+	background-color: #3C6AA6;
 	padding: 40px 0;
 }
 .subfooter a {
@@ -170,12 +170,12 @@ color: #FF89BA;
 }
 .btn-primary {
 color: #fff;
-background-color: #BD0451;
+background-color: #D93030;
 border:0px;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
 color: #fff;
-background-color: #E00A63;
+background-color: #D93030;
 border:0px;
 }
 .transprant-bg {
@@ -231,7 +231,7 @@ border:0px;
 	z-index: 2;
 	width: 100%;
 	height: 100%;
-	background-color: #DB0A61;
+	background-color: #D93030;
 }
 .transprant-bg.blue:after {
 	background-color: rgba(85, 172, 238, 0.7);
@@ -359,12 +359,12 @@ text-align:center;
 }
 .btn-default {
 	color: #FFFFFF;
-	background: #E00A63;
+	background: #3C6AA6;
 	border: 0;
 }
 .btn-default:hover {
 	color: #ffffff;
-	background-color: #BB0A53;
+	background-color: #034AA6;
 	border: 0;
 }
 
@@ -436,8 +436,8 @@ text-align:center;
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus,
 .nav-pills > li > a:hover {
-	background-color: #DB0A61;
-	border-color: #DB0A61;
+	background-color: #3C6AA6;
+	border-color: #034AA6;
 	color: #ffffff;
 }
 .nav-pills > li > a {
@@ -526,11 +526,11 @@ padding: 10px 0;
 }
 .main-navigation .navbar-default .navbar-nav > li.active > a {
 	background-color: transparent;
-	color: #DB0A61;
+	color: #3C6AA6;
 }
 .main-navigation .navbar-default .navbar-nav > li > a:hover,
 .main-navigation .navbar-default .navbar-nav > li.active > a:hover {
-	color: #DB0A61;
+	color: #034AA6;
 }
 
 /* carousel */
@@ -821,7 +821,7 @@ border-radius: 50%;
 }
 .isotope-item .btn-default {
 	color: #FFFFFF;
-	background: rgba(219, 10, 97, 0.69);
+	background: #D93030;
 	margin-top: -36px;
 	z-index: 2;
 	position: relative;
@@ -850,7 +850,7 @@ border-radius: 50%;
 	bottom: -1px;
 	left: 0;
 	right: -1px;
-	background-color: rgba(219, 10, 97, 0.78);
+	background-color: #D93030;
 	cursor: pointer;
 	overflow: hidden;
 	opacity: 0;
